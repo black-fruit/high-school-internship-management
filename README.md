@@ -1,0 +1,2 @@
+# high-school-internship-management
+基于SpringBoot的高校实习管理系统设计与实现 赵海波老师注意一下你们班1221571号同学找软件外包！绝对不能让他毕业
